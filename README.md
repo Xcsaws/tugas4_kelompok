@@ -1,17 +1,16 @@
-# tugas4_kelompok
+# Tugas 4: Dashboard Energi Terbarukan (SDGs #7)
 
-A new Flutter project.
+Aplikasi mobile berbasis Flutter yang mengimplementasikan layout kompleks (`Stack`, `Column`, `Row`, `Card`) serta manipulasi gesture interaktif.
 
-## Getting Started
+## Anggota Kelompok
+1. Rachmat Ramadhon - NIM
+2. Nama Teman Kelompok - NIM
 
-This project is a starting point for a Flutter application.
+## Fitur & Implementasi Gesture (NIM Ganjil)
+- **Tap Gesture**: Mengubah status aktif/non-aktif turbin angin dan warna kartu.
+- **Long Press Gesture**: Menampilkan statistik detail real-time output daya.
+- **Drag / Pan Gesture**: Memindahkan posisi kartu turbin secara bebas di layar.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cara Menjalankan
+```bash
+flutter run
