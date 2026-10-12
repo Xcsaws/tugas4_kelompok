@@ -3,8 +3,8 @@
 Aplikasi mobile berbasis Flutter yang mengimplementasikan layout kompleks (`Stack`, `Column`, `Row`, `Card`) serta manipulasi gesture interaktif.
 
 ## Anggota Kelompok
-1. Rachmat Ramadhon - NIM
-2. Nama Teman Kelompok - NIM
+1. Rachmat Ramadhon - 202431194
+2. Aditiya Tri Mukti - 202431101
 
 ## Fitur & Implementasi Gesture (NIM Ganjil)
 - **Tap Gesture**: Mengubah status aktif/non-aktif turbin angin dan warna kartu.
